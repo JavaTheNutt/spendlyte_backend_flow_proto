@@ -1,0 +1,6 @@
+functions\node_modules\
+.idea\
+.env
+functions\firebase-debug.log
+functions/node_modules/
+.idea/
